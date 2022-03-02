@@ -104,7 +104,7 @@
     \setlength{\tabcolsep}{0.8ex}%
     \setlength\LTleft{0pt}%
     \setlength\LTright{0pt}%
-    \begin{longtable}{@{\extracolsep{\fill}\hspace{\tabcolsep}} l r r r }
+    \begin{longtable}{@{\extracolsep{\fill}\hspace{\tabcolsep}} p{10cm} r r r }
     \hline
     \bfseries Description of Services & \multicolumn{1}{c}{\bfseries Quantity} & \multicolumn{1}{c}{\bfseries Unit Price} & \multicolumn{1}{c}{\bfseries Amount} \\*
     \hline\hline
